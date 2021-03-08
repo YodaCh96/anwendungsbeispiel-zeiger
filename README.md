@@ -10,7 +10,7 @@ Das Programm soll nach dem Start solange für Auskünfte zur Verfügung stehen, 
 
 Die Anzahl der Kapitel sowie die zugehörigen Seitenzahlen sind für die Umsetzung dieser Aufgabe nicht relevant. Wählen Sie dazu selbständig einige fiktive Seitenzahlen (wieso nicht die kleinsten Primzahlen in jedem Hunderterraum?). Die Informationen zu den vorhandenen Kapiteln und zugehörigen Seitenzahlen sollen im Programm als konstante Werte hinterlegt sein.
 
-Für das Einlesen der Benutzereingabe sowie für die Zwischenspeicherung bzw. Ausgabe der relevanten Informationen sollen wo möglich (und sinnvoll) Zeiger bzw. entsprechende Operatoren (z.B.& und *) verwendet werden.
+Für das Einlesen der Benutzereingabe sowie für die Zwischenspeicherung bzw. Ausgabe der relevanten Informationen sollen wo möglich (und sinnvoll) Zeiger bzw. entsprechende Operatoren (z.B. & und *) verwendet werden.
 
 Als Hilfestellung und/oder Inspiration für die Bearbeitung dieser Aufgabe kann der untenstehende Screenshot verwendet werden.
 
