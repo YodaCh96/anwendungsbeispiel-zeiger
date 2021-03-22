@@ -1,22 +1,18 @@
-# Anwendungsbeispiel Zeiger
+# Example of use Pointers
 
-Mit der vorliegenden Aufgabe soll durch einfache Mittel und geringen Programmieraufwand ein konkretes Anwendungsbeispiel für die Verwendung von Zeigern demonstriert werden.
+The present task is intended to demonstrate a concrete application example for the use of pointers by simple means and low programming effort.
 
-## Vorbereitung
+## Preparation
 
-Erstellen Sie in Visual Studio ein neues Projekt für die Bearbeitung dieser Aufgabe. Schreiben Sie sämtlichen Code, welcher für die Bearbeitung dieser Aufgabe notwendig ist direkt in die main Funktion des neu erstellten Projekts.
+Create a programme that functions as an interactive table of contents. In this task, users should be able to enter the chapter number of a (fictitious) book to get the page number of this chapter displayed. A somewhat more realistic task could be to look up a telephone number in an address directory or to find the purchase price of a product with a known article number.
 
-## Aufgabenstellung
+After starting, the programme should be available for information until it is terminated by entering an appropriate code. In the following screenshot, the number 0 is used for this purpose.
 
-Erstellen Sie ein Programm, welches als interaktives Inhaltsverzeichnis funktioniert. Im Rahmen dieser Aufgabe sollen Benutzerinnen und Benutzer die Kapitelnummer eines (fiktiven) Buches eingeben können um die Seitenzahl dieses Kapitels angezeigt zu erhalten. Etwas realistischer könnte das Nachschlagen einer Telefonnummer in einem Adressverzeichnis oder das Auffinden des Einkaufspreises von einem Produkt mit bekannter Artikelnummer ausfallen.
+The number of chapters and the corresponding page numbers are not relevant for the implementation of this task. Choose some fictitious page numbers on your own (why not the smallest prime numbers in each hundreds space?). The information on the existing chapters and associated page numbers should be stored in the programme as constant values.
 
-Das Programm soll nach dem Start solange für Auskünfte zur Verfügung stehen, bis dieses durch die Eingabe eines entsprechenden Codes beendet wird. Im nachfolgenden Screenshot wird dafür die Zahl 0 verwendet.
+For reading the user input and for the intermediate storage or output of the relevant information, pointers or corresponding operators (e.g. & and *) should be used where possible (and sensible).
 
-Die Anzahl der Kapitel sowie die zugehörigen Seitenzahlen sind für die Umsetzung dieser Aufgabe nicht relevant. Wählen Sie dazu selbständig einige fiktive Seitenzahlen (wieso nicht die kleinsten Primzahlen in jedem Hunderterraum?). Die Informationen zu den vorhandenen Kapiteln und zugehörigen Seitenzahlen sollen im Programm als konstante Werte hinterlegt sein.
-
-Für das Einlesen der Benutzereingabe sowie für die Zwischenspeicherung bzw. Ausgabe der relevanten Informationen sollen wo möglich (und sinnvoll) Zeiger bzw. entsprechende Operatoren (z.B. & und *) verwendet werden.
-
-Als Hilfestellung und/oder Inspiration für die Bearbeitung dieser Aufgabe kann der untenstehende Screenshot verwendet werden.
+The screenshot below can be used as an aid and/or inspiration for working on this task.
 
 ![Example](images/example.jpg)
 
