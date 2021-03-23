@@ -12,7 +12,7 @@ The number of chapters and the corresponding page numbers are not relevant for t
 
 For reading the user input and for the intermediate storage or output of the relevant information, pointers or corresponding operators (e.g. & and *) should be used where possible (and sensible).
 
-The screenshot below can be used as an aid and/or inspiration for working on this task.
+The code block below can be used as an aid and/or inspiration for working on this task.
 
 ```none
 Table of contents
